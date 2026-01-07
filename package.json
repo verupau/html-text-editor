@@ -2,6 +2,7 @@
   "name": "text-editor-app",
   "version": "1.0.0",
   "description": "Vizuální editor textů v HTML souborech",
+  "author": "Veronika Paulusova",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
