@@ -1,0 +1,13 @@
+{
+  "name": "text-editor-app",
+  "version": "1.0.0",
+  "description": "Vizuální editor textů v HTML souborech",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
